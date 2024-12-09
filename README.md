@@ -18,3 +18,5 @@ This project involves analyzing a shipping dataset to derive insights into sales
 1. Data exploration and cleaning.
 2. Generating meaningful insights.
 3. Building dashboards with various charts.
+
+![image](https://github.com/user-attachments/assets/5c5e452b-5fd8-491f-b53c-8a06f20af26a)
