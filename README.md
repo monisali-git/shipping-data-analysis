@@ -20,3 +20,7 @@ This project involves analyzing a shipping dataset to derive insights into sales
 3. Building dashboards with various charts.
 
 ![image](https://github.com/user-attachments/assets/5c5e452b-5fd8-491f-b53c-8a06f20af26a)
+
+
+![image](https://github.com/user-attachments/assets/6110704a-cbd6-4805-8b0f-7169ad8ffd40)
+
